@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio de prueba/Modulo 2/Java Script
+Este projecto es una prueba de como crear un repositorio y clonarlo desde GitHub a mi escritorio global
